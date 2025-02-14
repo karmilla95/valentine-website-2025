@@ -9,13 +9,13 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "To my favourite LP💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        cats: ['🐱', '🐈']                       // Cute cat emojis
     },
 
     // Questions and answers
@@ -50,18 +50,18 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "waaaaah waaaait! 🎉💝💖💝💓",
-        message: "okay eto naaaaaaaaaaa!!!!!!!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "okay eto naaaaaaaaaaa!!!!!!!🫣",
+        emojis: "💖🤗😘😘😘💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
+        backgroundStart: "#FFEDFA",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#E195AB",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#CCDF92",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        textColor: "#DE3163"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dgi542ya3/video/upload/v1739502026/Adie_Janine_Berdin_-_Mahika_Lyrics_q7j9cc.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
