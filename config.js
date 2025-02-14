@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "gusto mo ba ako?",                                    // First interaction
+            text: "gusto mo ba ng gift ko?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "Yes na yes❤️"           // Secret hover message
+            secretAnswer: "mas gusto ko ikaw ❤️"           // Secret hover message
         },
         second: {
             text: "Weh? Talaga ba, gaano mo ko kagusto?",                          // For the love meter
