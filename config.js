@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "To my favourite LP💝",
+    pageTitle: "To my favourite LP💓",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Happy Valentine's!!!!!! Yung gift ko maya na ha 🌹", // The big question!
-            yesBtn: "Now naaa!",                                             // Text for "Yes" button
-            noBtn: "Oki🥹"                                                 // Text for "No" button
+            text: "What slithers and wiggles, comes in a rainbow of colors, and is so sour it might make you pucker?", // The big question!
+            yesBtn: "😖🍬🪱",                                             // Text for "Yes" button
+            noBtn: "sirit na🥹"                                                 // Text for "No" button
         }
     },
 
@@ -44,13 +44,13 @@ const CONFIG = {
     loveMessages: {
         extreme: "WOOOOW talaga baaaaaa?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "more more more more! 🚀💝",              // Shows when they go past 1000%
-        normal: "mas pa sa moooooooooooore! 🥰"                           // Shows when they go past 100%
+        normal: "mas pa sa moooooooooooore! 🥰"        // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "waaaaah waaaait! 🎉💝💖💝💓",
-        message: "okay eto naaaaaaaaaaa!!!!!!!🫣",
+        title: "sure ka na talaga ba? chat me the answer muna🎉💝💖💝💓",
+        message: "come to me to get your gift🫣",
         emojis: "💖🤗😘😘😘💋❤️💕"  // These will bounce around
     },
 
